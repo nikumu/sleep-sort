@@ -1,3 +1,3 @@
-# Sleepsort
+# Sleep sort
 
-This is a collection of Sleepsort implementations, on various languages and frameworks.
+This is a collection of [Sleep sort](https://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort) implementations, on various languages.
